@@ -47,10 +47,8 @@ GANs are a deep learning technique consisting of two models: a Generator and a D
 ## Results
 Enhanced images will be saved in the output directory. You can compare low-resolution images with the enhanced images to evaluate the model's performance.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2fc846a8-aa05-4178-9031-7efbf907a28d
-" width="350" alt="accessibility text">
-</p>
+![Github_compare](https://github.com/user-attachments/assets/fc218907-6e87-4d75-9721-5cb070c4fb8a)
+
 
 ## PSNR Metric Comparison
 
