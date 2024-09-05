@@ -23,7 +23,7 @@ GANs are a deep learning technique consisting of two models: a Generator and a D
 
 ### Training Process
 
-![](![Fig  4  Training process](https://github.com/user-attachments/assets/10125552-1be4-4111-af43-cf6a9d500de7))
+![Fig  4  Training process](https://github.com/user-attachments/assets/10125552-1be4-4111-af43-cf6a9d500de7)
 
 1. **Data Collection**: Use low-resolution SAM images and, if available, corresponding high-resolution images.
 2. **Data Preprocessing**: Normalize and break down the images into smaller patches.
@@ -48,7 +48,8 @@ GANs are a deep learning technique consisting of two models: a Generator and a D
 Enhanced images will be saved in the output directory. You can compare low-resolution images with the enhanced images to evaluate the model's performance.
 
 <p align="center">
-  <img src="https://github.com/NTN-hacker/SAMGAN/blob/main/assets/picture/Github_Result.png" width="350" alt="accessibility text">
+  <img src="![Qualitative comparisons between different models on the testing dataset](https://github.com/user-attachments/assets/2fc846a8-aa05-4178-9031-7efbf907a28d)
+" width="350" alt="accessibility text">
 </p>
 
 ## PSNR Metric Comparison
@@ -90,7 +91,8 @@ Enhanced images will be saved in the output directory. You can compare low-resol
 
 
 <p align="center">
-  <img src="https://github.com/NTN-hacker/SAMGAN/blob/main/assets/picture/Image_Release/Image7_Flowchart_DeployModel.jpg" width="350" alt="accessibility text">
+  <img src="![Model deployment framework](https://github.com/user-attachments/assets/5ffab07b-7fb6-4cc1-b213-5aa7a8cb2ca4)
+" width="350" alt="accessibility text">
 </p>
 
 1. Deploy on Website
