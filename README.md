@@ -23,7 +23,7 @@ GANs are a deep learning technique consisting of two models: a Generator and a D
 
 ### Training Process
 
-![](https://github.com/NTN-hacker/SAMGAN/blob/main/assets/picture/Image_Release/Image5_TrainingProcess.jpg)
+![](![Fig  4  Training process](https://github.com/user-attachments/assets/10125552-1be4-4111-af43-cf6a9d500de7))
 
 1. **Data Collection**: Use low-resolution SAM images and, if available, corresponding high-resolution images.
 2. **Data Preprocessing**: Normalize and break down the images into smaller patches.
