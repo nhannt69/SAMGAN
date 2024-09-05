@@ -1,6 +1,4 @@
-# Enhancing Resolution in Scanning Acoustic Microscopy using GANs
-
-![](https://github.com/NTN-hacker/SAMGAN/blob/main/assets/picture/Image_Release/Image3_Model_Architecture.jpg)
+# Image-enhanced Generative Models for Industrial Scanning Acoustic Super-resolution (Private)
 
 ## Introduction
 
