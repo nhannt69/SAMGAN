@@ -88,10 +88,8 @@ Enhanced images will be saved in the output directory. You can compare low-resol
 ## Deploy
 
 
-<p align="center">
-  <img src="![Model deployment framework](https://github.com/user-attachments/assets/5ffab07b-7fb6-4cc1-b213-5aa7a8cb2ca4)
-" width="350" alt="accessibility text">
-</p>
+![Github_deploy](https://github.com/user-attachments/assets/3818a987-5595-4061-9352-d503ced2c2d1)
+
 
 1. Deploy on Website
 2. Deploy on Software
