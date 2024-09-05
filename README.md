@@ -93,7 +93,7 @@ Enhanced images will be saved in the output directory. You can compare low-resol
   <img src="https://github.com/NTN-hacker/SAMGAN/blob/main/assets/picture/Image_Release/Image7_Flowchart_DeployModel.jpg" width="350" alt="accessibility text">
 </p>
 
-1. Deploy on Website: [Website] (https://demoai-2024.github.io/ohlabs-ai/) (Public - only demo) and Private to use local
+1. Deploy on Website: [Website] (https://demoai-2024.github.io) (Public - only demo) and Private to use local
 2. Deploy on Software
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions and suggestions are welcome!
